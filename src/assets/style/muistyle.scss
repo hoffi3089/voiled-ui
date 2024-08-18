@@ -1,0 +1,10 @@
+.MuiPaper-root {
+	z-index: 20;
+	background: unset !important;
+	border-radius: unset !important;
+	// box-shadow: unset !important;
+
+	.MuiList-root {
+		padding: unset !important;
+	}
+}
